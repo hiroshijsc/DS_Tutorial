@@ -1,1 +1,1 @@
-# DS_Tutorial
+# data-science-tutorial
